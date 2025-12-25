@@ -1,4 +1,4 @@
-# Task Scheduling Simulator using Max Heap
+ Task Scheduling Simulator using Max Heap
 
 This project is a **C-based Task Scheduling Simulator** that demonstrates
 **priority-based task execution** using the **Max Heap data structure**.
@@ -7,7 +7,7 @@ similar to real-world CPU scheduling systems.
 
 ---
 
-## 🔍 Project Overview
+  Project Overview
 Task scheduling is a fundamental concept in operating systems.
 This simulator uses a **Max Heap** to efficiently manage tasks based on their
 priority values. It supports dynamic insertion, execution, and display of tasks
@@ -15,7 +15,7 @@ while maintaining the heap property throughout execution.
 
 ---
 
-## 🎯 Objectives
+ Objectives
 - Implement priority-based task scheduling using Max Heap
 - Ensure highest-priority task is executed first
 - Demonstrate heap operations such as insertion and deletion
@@ -23,7 +23,7 @@ while maintaining the heap property throughout execution.
 
 ---
 
-## ✨ Key Features
+ Key Features
 - Priority-based task scheduling
 - Insert tasks with ID, name, and priority
 - Execute (delete) the highest-priority task
@@ -32,7 +32,7 @@ while maintaining the heap property throughout execution.
 
 ---
 
-## 🧠 Concepts Used
+ Concepts Used
 - Max Heap
 - Priority Queue
 - Heapify (Up and Down)
@@ -41,13 +41,13 @@ while maintaining the heap property throughout execution.
 
 ---
 
-## 🛠️ Tech Stack
+ Tech Stack
 - Programming Language: **C**
 - Compiler: GCC (Code::Blocks / Dev-C++ / Turbo C)
 - Platform: Windows / Linux / macOS
 
 ---
-## 🚀 How to Run
+ How to Run
 1. Clone the repository
 2. Compile the program using a C compiler:
    ```bash
