@@ -47,11 +47,13 @@ while maintaining the heap property throughout execution.
 - Platform: Windows / Linux / macOS
 
 ---
- How to Run
-1. Clone the repository
-2. Compile the program using a C compiler:
+  How to Run the Project
+
+1. Open terminal in the project directory
+2. Compile the program:
    ```bash
-   gcc task_scheduler.c -o task_scheduler
-3. ./task_scheduler
+   gcc task_scheduler.c
+3. ./a.out
+   
   
 
